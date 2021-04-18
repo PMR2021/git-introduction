@@ -9,5 +9,5 @@ Pour réaliser cet exercice :
 * Insérer votre nom dans le fichier etudiants
 * Réaliser un commit 
 * Pousser vos modifications sur le serveur
-* Fusionner votre branche dans master
-* Récupérer la nouvelle branche master
+* Fusionner votre branche dans main
+* Récupérer la nouvelle branche main
