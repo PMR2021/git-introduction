@@ -2,7 +2,7 @@
 ## Exercice d'introduction à git
 
 Pour réaliser cet exercice : 
-* Rejoindre l’organisation PMR2019
+* Rejoindre l’organisation PMR2021
 * Cloner le dépôt git-introduction
 * Créer une nouvelle branche : b_votreNom
 * Ajouter à cette branche un fichier f_votreNom
